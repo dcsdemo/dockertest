@@ -1,0 +1,1 @@
+cat SomeText.txt
